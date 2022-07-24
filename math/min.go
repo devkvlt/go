@@ -7,5 +7,5 @@ func Min(nums ...float64) float64 {
 			m = v
 		}
 	}
-	return float64(m)
+	return m
 }
